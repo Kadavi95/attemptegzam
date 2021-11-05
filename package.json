@@ -13,6 +13,7 @@
     "dist/"
   ],
   "dependencies": {
+    "chess.js": "^0.12.0",
     "jquery": ">=3.4.1"
   },
   "devDependencies": {
